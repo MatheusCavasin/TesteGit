@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("Abre a primeira tela")
+        print("Abre a segunda tela")
     }
     
 
